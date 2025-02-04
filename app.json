@@ -1,35 +1,21 @@
 {
-  "name": "@XRsource",
-  "description": " اهلا بكم في تنصيب سورس XR !",
-  "keywords": ["python", "chatbot","scalingo"],
-  "repository": "https://github.com/thefox40a/rxsourse",
+  "name": "@qoqqoqq",
+  "description": "اهلا بكم في تنصيب سورس صيد اليوزرات!",
+  "keywords": ["python", "chatbot", "scalingo"],
+  "repository": "https://github.com/TYTHONNBV/tnt",
   "stack": "container",
   "env": {
-
-      "APP_ID": {
-          "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
-          "required": true,
-          "value":"1"
-      },
-      "APP_HASH": {
-          "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
-          "required": true,
-          "value":"1"
-      },
-      "TERMUX": {
-        "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
-        "required": true,
-        "value":"1"
-      },
-      "token": {
-          "description": "التوكن〔 TOKEN 〕اتركـه كمـا هــو",
-          "required": true,
-          "value":"1"
-      },
-      "BOT_USERNAME": {
-          "description": "يوزر البوت〔 USER BOT 〕اتركـه كمـا هــو",
-          "required": true,
-          "value":"1"
-      }
+    "APP_ID": {
+      "description": "كود API ID - اتركه كما هو",
+      "required": true
+    },
+    "APP_HASH": {
+      "description": "كود API Hash - اتركه كما هو",
+      "required": true
+    },
+    "TERMUX": {
+      "description": "كود جلسة تيرمكس - ادخل الجلسة هنا",
+      "required": true
+    }
   }
 }
