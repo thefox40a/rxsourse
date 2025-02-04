@@ -2,7 +2,7 @@
   "name": "@XRsource",
   "description": " اهلا بكم في تنصيب سورس XR !",
   "keywords": ["python", "chatbot","scalingo"],
-  "repository": "https://github.com/TYTHONNBV/tnt",
+  "repository": "https://github.com/thefox40a/rxsourse",
   "stack": "container",
   "env": {
 
