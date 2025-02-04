@@ -13,7 +13,7 @@
       "description": "كود API Hash - اتركه كما هو",
       "required": true
     },
-    "TERMUX": {
+    "ss": {
       "description": "كود جلسة تيرمكس - ادخل الجلسة هنا",
       "required": true
     }
