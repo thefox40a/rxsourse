@@ -9,27 +9,27 @@
       "APP_ID": {
           "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
           "required": true,
-          "value":""
+          "value":"1"
       },
       "APP_HASH": {
           "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
           "required": true,
-          "value":""
+          "value":"1"
       },
       "TERMUX": {
         "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
         "required": true,
-        "value":""
+        "value":"1"
       },
       "token": {
           "description": "التوكن〔 TOKEN 〕اتركـه كمـا هــو",
           "required": true,
-          "value":""
+          "value":"1"
       },
       "BOT_USERNAME": {
           "description": "يوزر البوت〔 USER BOT 〕اتركـه كمـا هــو",
           "required": true,
-          "value":""
+          "value":"1"
       }
   }
 }
