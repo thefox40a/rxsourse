@@ -9,27 +9,27 @@
       "APP_ID": {
           "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
           "required": true,
-          "value":"24944143"
+          "value":""
       },
       "APP_HASH": {
           "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
           "required": true,
-          "value":"c3a7a7e23f79042411d74e870f480ae3"
+          "value":""
       },
       "TERMUX": {
         "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
         "required": true,
-        "value":"1BJWap1sBuxRlwmBL_boDOEaH-0kPdoPbglNZzPAx-0S5X8UOrFHzUKhOD6g_meCMxVyrONMbsVTaY84VKbkVrIFlu6Ma-o7-_5pvdL4Tqr6kqDzKMlFprfJrFukDJxmUStGNc6yHoNZ29IHs1qO1uwc4wS1PHrokPMX4wI-arBDp_y9ZB_CUkgcKm578Xv6es1-n2ndBx89I2CFhdBXxMJaBRioUq4SzFd0iQhVxFTZhLqhohY-b5N6-u9CMyXVEIqx5Wd2Fv-ALFz3j-rQ-FuGPIpBB2e_8Zq_MAv0HgHeNe1DEiGCDqt7tOhkHSheQzoDNP1xlCeGJqSfQiy0kf_mGXmCLrsY="
+        "value":""
       },
       "token": {
           "description": "التوكن〔 TOKEN 〕اتركـه كمـا هــو",
           "required": true,
-          "value":"7179039513:AAHPuNBfCLgq4Yf4zgLLKrQAPFKR4hZvqJM"
+          "value":""
       },
       "BOT_USERNAME": {
           "description": "يوزر البوت〔 USER BOT 〕اتركـه كمـا هــو",
           "required": true,
-          "value":"YoMidobot"
+          "value":""
       },
   }
 }
