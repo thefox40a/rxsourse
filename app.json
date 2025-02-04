@@ -30,6 +30,6 @@
           "description": "يوزر البوت〔 USER BOT 〕اتركـه كمـا هــو",
           "required": true,
           "value":""
-      },
+      }
   }
 }
