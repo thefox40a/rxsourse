@@ -1,0 +1,25 @@
+{
+  "name": "@XRsource",
+  "description": " اهلا بكم في تنصيب سورس XR !",
+  "keywords": ["python", "chatbot","scalingo"],
+  "repository": "https://github.com/TYTHONNBV/tnt",
+  "stack": "container",
+  "env": {
+
+      "APP_ID": {
+          "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
+          "required": true,
+          "value":"24944143"
+      },
+      "APP_HASH": {
+          "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
+          "required": true,
+          "value":"c3a7a7e23f79042411d74e870f480ae3"
+      },
+      "TERMUX": {
+        "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
+        "required": true,
+        "value":"1BJWap1sBu2NPLBbEj-URLUQYHZbi5C0p3u6uMEj86qMifIt0RpXr9iWWB2XvWB9t22TOFsfDPanTQ_8XEeI6ZUT2BdJ2UqMB7HEfRKMD6BDha44Bdf4H1xz_QtPbOGY4_cnQhH9odqvEWWm-XaDMDebaIMTguBae2txT9Vsf89qUeLAjpnxOFNvM9q6kZlNdDviZhDvh7rFI3JfprLp269uJLdOoq7mLzzP5U6B7E5opIpixHUcV13qIZxqNsEvc8c8N8SefBbFnG7bOxlG0WOFHm2bKh9rAuFTX1jvtnFp7PPecdfNbH1yXNpgUQ0pVknVU-Bi9eXiAI16_hNmQmuMITTRjxM4="
+      }
+  }
+}
